@@ -65,7 +65,9 @@ button {
   align-items: center;
   justify-content: center;
 }
-
+.noGame {
+  font-size: 23px;
+}
 .days {
   display: flex;
   gap: 48px;
